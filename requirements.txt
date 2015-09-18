@@ -1,0 +1,11 @@
+We would like to assess software engineering skills via a homework 
+assignment specifically tailored to your position.  In this case we 
+would like you to build an efficient port scanner in the language 
+of your choice.  The base case would be a TCP port scanner scanning 
+from port 1-65535 on an IPv4 address.
+
+Bonus: Speed/Concurrency
+Bonus: IPv6
+Bonus: UDP
+Bonus: Map port to services file for service guess
+Bonus: Able to scan blocks of IPs
